@@ -1,4 +1,4 @@
-![logo](https://github.com/ayeshamuhammad13/ayeshamuhammad13/blob/main/Ayesha.png)
+![logo](https://github.com/ayeshamuhammad13/ayeshamuhammad13/blob/main/Ayesha%20(2).png)
 <h1 align="center">Hi 👋, I'm Ayesha Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
