@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align ="right" alt ="a" width = "400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-girl-animation-fe7t4gejurmtof8v.html&psig=AOvVaw3aSUYNFJaa0LrMEiBLq_pT&ust=1697457411172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCGjuP_94EDFQAAAAAdAAAAABAZ"  />
+<img align ="right" alt ="a" width = "400" src ="https://gifdb.com/images/high/girl-employer-branding-and-coding-mppit4lus55833c3.webp" />
 
 - 🔭 I’m currently working on **Women Tech Space**
 
