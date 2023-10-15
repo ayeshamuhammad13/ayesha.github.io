@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align ="right" alt ="a" width = "400" src ="https://gifdb.com/images/high/girl-employer-branding-and-coding-mppit4lus55833c3.webp" />
+<img align ="right" alt ="a" width = "400" src ="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" />
 
 - 🔭 I’m currently working on **Women Tech Space**
 
