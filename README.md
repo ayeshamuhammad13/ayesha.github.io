@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align ="right" alt ="coding" width = "400" src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshamuhammad13&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshamuhammad13" /> </p>
+<img align ="right" alt ="coding" width = "400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700&psig=AOvVaw3aSUYNFJaa0LrMEiBLq_pT&ust=1697457411172000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCGjuP_94EDFQAAAAAdAAAAABAE" /> </p>
 
 - 🔭 I’m currently working on **Women Tech Space**
 
